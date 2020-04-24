@@ -1,10 +1,10 @@
 # Certifications and Courses for Data Scientists and Data Engineers
-This repo lists all the certification in cloud, data engineering, machine learning, and Artificial intelligence streams.
+This repo lists all the certifications about cloud infrastructure, data engineering, machine learning, and Artificial intelligence streams designed for data scientists and data engineers. This work will help begginner and intermediate engineers to understand the landscape and shape their career by upgrading to new skills refrequently. Skills needed for a routine job in this domain is massive. Please pick certifications and courses carefully to match your company and career goals.
 
 ## Infrastructure oriented
 
-| Program                           | Price | Description or Link                                     |
-|-----------------------------------|-------|---------------------------------------------------------|
+| Program                           | Price     | Description or Link                                     |
+|-----------------------------------|-----------|---------------------------------------------------------|
 | Elasticsearch certified engineer  | 400 USD   |   |
 | AWS Certified Developer           | 250 USD   |   |
 | AWS Certified Devops Engineer     |           |   |
