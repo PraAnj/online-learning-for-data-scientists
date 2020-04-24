@@ -1,5 +1,5 @@
 # Certifications and Courses for Data Scientists and Data Engineers
-This repo lists all the certifications about cloud infrastructure, data engineering, machine learning, and Artificial intelligence streams designed for data scientists and data engineers. This work will help begginner and intermediate engineers to understand the landscape and shape their career by upgrading to new skills refrequently. Skills needed for a routine job in this domain is massive. Please pick certifications and courses carefully to match your company and career goals.
+This repo lists all the certifications about cloud infrastructure, data engineering, machine learning, and Artificial intelligence streams designed for data scientists and data engineers. This work will help beginner and intermediate engineers to understand the landscape and shape their career by upgrading to new skills refrequently. Skills needed for a routine job in this domain is massive. Please pick certifications and courses carefully to match your company and career goals.
 
 ## Infrastructure oriented
 
