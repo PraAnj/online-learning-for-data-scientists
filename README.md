@@ -3,20 +3,35 @@ This repo lists all the certification in cloud, data engineering, machine learni
 
 ## Infrastructure oriented
 
-1. Elasticsearch certified engineer (400 USD)
-2. AWS Certified Developer (250 USD)
-3. AWS Certified Devops Engineer
-4. AWS Certified Big Speciality 2020
-5. Microsoft Azure
-6. Cloudera
-7. GCP
-8. RedHat
-9. DataBricks
-10. Certified Kubernetes Administrator (CKA) Program
+| Program                           | Price | Description or Link                                     |
+|-----------------------------------|-------|---------------------------------------------------------|
+| Elasticsearch certified engineer  | 400 USD   |   |
+| AWS Certified Developer           | 250 USD   |   |
+| AWS Certified Devops Engineer     |           |   |
+| AWS Certified Big Speciality 2020 |           |   |
+| Microsoft Azure                   |           |   |
+| Cloudera                          |           |   |
+| GCP                               |           |   |
+| RedHat                            |           |   |
+| DataBricks                        |           |   |
+| Certified Kubernetes Administrator (CKA) Program  |           |   |
 
 ## Data Science oriented
 
-1. AWS Certified Machine Learning Speciality 2020
-2. IBM
-3. Google
-4. 
+| Program                             | Price       | Description or Link                             |
+|-------------------------------------|-------------|-------------------------------------------------|
+| AWS Certified Machine Learning Speciality 2020  | 250 USD   |   |
+| IBM                                 |             |   |
+| Microsoft Azure                     |             |   |
+| Google                              |             |   |
+| Microsoft Power BI                  |             |   |
+
+## Programming Languages oriented
+
+1. Python
+2. R
+3. Julia
+4. Bash
+5. Java
+6. C++
+7. Knowledge on using GPU and TPU
