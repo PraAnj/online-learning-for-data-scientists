@@ -10,7 +10,10 @@ This repo lists all the certification in cloud, data engineering, machine learni
 | AWS Certified Devops Engineer     |           |   |
 | AWS Certified Big Speciality 2020 |           |   |
 | Microsoft Azure                   |           |   |
-| Cloudera                          |           |   |
+| CCA Spark and Hadoop Developer    | 295 USD   | https://www.cloudera.com/about/training/certification.html  |
+| CCA Administrator                 | 295 USD   |   |
+| CCA HDP Administrator Exam        | 295 USD   |   |
+| CCP Data Engineer                 | 400 USD   |   |
 | GCP                               |           |   |
 | RedHat                            |           |   |
 | DataBricks                        |           |   |
@@ -18,13 +21,15 @@ This repo lists all the certification in cloud, data engineering, machine learni
 
 ## Data Science oriented
 
-| Program                             | Price       | Description or Link                             |
-|-------------------------------------|-------------|-------------------------------------------------|
-| AWS Certified Machine Learning Speciality 2020  | 250 USD   |   |
-| IBM                                 |             |   |
-| Microsoft Azure                     |             |   |
-| Google                              |             |   |
-| Microsoft Power BI                  |             |   |
+| Program                               | Price     | Description or Link                             |
+|---------------------------------------|-----------|-------------------------------------------------|
+| AWS Certified ML Speciality 2020      | 250 USD   |   |
+| CCA Spark and Hadoop Developer        | 295 USD   | https://www.cloudera.com/about/training/certification.html  |
+| CCA Data Analyst                      | 295 USD   |   |
+| IBM                                   |           |   |
+| Microsoft Azure                       |           |   |
+| Google                                |           |   |
+| Microsoft Power BI                    |           |   |
 
 ## Programming Languages oriented
 
