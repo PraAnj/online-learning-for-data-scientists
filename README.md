@@ -6,7 +6,7 @@ This repo lists all the certifications about cloud infrastructure, data engineer
 | Program                                                       | Price     | Description or Link                                     |
 |---------------------------------------------------------------|-----------|---------------------------------------------------------|
 | Elasticsearch certified engineer                              | 400 USD   |   |
-| AWS Certified Developer                                       | 250 USD   |   |
+| AWS Certified Developer                                       | 150 USD   |   |
 | AWS Certified Devops Engineer                                 |           |   |
 | AWS Certified Big Speciality 2020                             |           |   |
 | Microsoft Azure                                               |           |   |
@@ -18,12 +18,15 @@ This repo lists all the certifications about cloud infrastructure, data engineer
 | RedHat                                                        |           |   |
 | Certified Kubernetes Administrator (CKA)                      |           |   |
 | Databricks Certified Associate Developer for Apache Spark 2.4 | 200 USD   | https://academy.databricks.com/category/certifications |
+| Google Cloud Platform Fundamentals for AWS Professionals      | Free      | https://www.coursera.org/learn/gcp-fundamentals-aws   
+                                                                              https://cloud.google.com/docs/compare/aws
+                                                                              https://www.classcentral.com/course/gcp-fundamentals-aws-8614   |
 
 ## Machine Learning oriented
 
 | Program                                                       | Price     | Description or Link                             |
 |---------------------------------------------------------------|-----------|-------------------------------------------------|
-| AWS Certified ML Speciality 2020                              | 250 USD   |   |
+| AWS Certified ML Speciality 2020                              | 150 USD   |   |
 | CCA Spark and Hadoop Developer                                | 295 USD   | https://www.cloudera.com/about/training/certification.html  |
 | CCA Data Analyst                                              | 295 USD   |   |
 | IBM                                                           |           |   |
