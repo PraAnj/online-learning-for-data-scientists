@@ -7,7 +7,7 @@ This repo lists all the certifications about cloud infrastructure, data engineer
 |---------------------------------------------------------------|-----------|---------------------------------------------------------|
 | Elasticsearch certified engineer                            | 400 USD   |   |
 | AWS Certified Solution Architec Associate                   | 150 USD   |  **Course:** https://www.udemy.com/course/aws-certified-solutions-architect-associate/<br/>**Quiz:** https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/</br>|
-| AWS Certified Developer                                       |           |   |
+| AWS Certified Developer                                       | 150 USD   | **Course:** udemy.com/course/aws-certified-developer-associate-dva-c01/<br/>**Quiz:** https://www.whizlabs.com/aws-developer-associate/practice-tests/ |
 | AWS Certified Devops Engineer                                 |           |   |
 | AWS Certified Big Speciality 2020                             |           |   |
 | Microsoft Azure                                               |           |   |
@@ -19,7 +19,7 @@ This repo lists all the certifications about cloud infrastructure, data engineer
 | RedHat                                                        |           |   |
 | Certified Kubernetes Administrator (CKA)                      |           |   |
 | Databricks Certified Associate Developer for Apache Spark 2.4 | 200 USD   | https://academy.databricks.com/category/certifications |
-| Google Cloud Platform Fundamentals for AWS Professionals      | Free      |**Course:** https://www.coursera.org/learn/gcp-fundamentals-aws<br/>**Material:** https://cloud.google.com/docs/compare/aws<br/>https://www.classcentral.com/course/gcp-fundamentals-aws-8614` |
+| Google Cloud Platform Fundamentals for AWS Professionals      | Free      |**Course:** https://www.coursera.org/learn/gcp-fundamentals-aws<br/>**Material1:** https://cloud.google.com/docs/compare/aws<br/>**Material2:** https://www.classcentral.com/course/gcp-fundamentals-aws-8614` |
 
 ## Machine Learning oriented
 
