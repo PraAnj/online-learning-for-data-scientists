@@ -19,7 +19,7 @@ This repo lists all the certifications about cloud infrastructure, data engineer
 | RedHat                                                        |           |   |
 | Certified Kubernetes Administrator (CKA)                      |           |   |
 | Databricks Certified Associate Developer for Apache Spark 2.4 | 200 USD   | https://academy.databricks.com/category/certifications |
-| Google Cloud Platform Fundamentals for AWS Professionals      | Free      |**Course:** https://www.coursera.org/learn/gcp-fundamentals-aws<br/>**Material1:** https://cloud.google.com/docs/compare/aws<br/>**Material2:** https://www.classcentral.com/course/gcp-fundamentals-aws-8614` |
+| Google Cloud Platform Fundamentals for AWS Professionals      | Free      |**Course1:** https://www.coursera.org/learn/gcp-fundamentals-aws<br/>**Course2:** https://www.classcentral.com/course/gcp-fundamentals-aws-8614<br/>**Material:** https://cloud.google.com/docs/compare/aws |
 
 ## Machine Learning oriented
 
