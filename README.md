@@ -9,7 +9,7 @@ This repo lists all the certifications about cloud infrastructure, data engineer
 | AWS Certified Solution Architec Associate                   | 150 USD   |  **Course:** https://www.udemy.com/course/aws-certified-solutions-architect-associate/<br/>**Quiz:** https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/</br>|
 | AWS Certified Developer                                       | 150 USD   | **Course:**  https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/<br/>**Quiz:** https://www.whizlabs.com/aws-developer-associate/practice-tests/ |
 | AWS Certified Devops Engineer                                 |           |   |
-| AWS Certified Big Speciality 2020                             |           |   |
+| AWS Certified Big Speciality 2020                             | 300 USD   | **Exam:** https://aws.amazon.com/certification/certified-big-data-specialty/  |
 | Microsoft Azure                                               |           |   |
 | CCA Spark and Hadoop Developer                                | 295 USD   | https://www.cloudera.com/about/training/certification.html  |
 | CCA Administrator                                             | 295 USD   |   |
@@ -25,7 +25,8 @@ This repo lists all the certifications about cloud infrastructure, data engineer
 
 | Program                                                       | Price     | Description or Link                             |
 |---------------------------------------------------------------|-----------|-------------------------------------------------|
-| AWS Certified ML Speciality 2020                              | 150 USD   |   |
+| Coursera courses by Andrew Ng                                 | Depends   | https://www.coursera.org/instructor/andrewng |
+| AWS Certified ML Speciality 2020                              | 300 USD   | **Exam:** https://aws.amazon.com/certification/certified-machine-learning-specialty/<br/>**Course1:** https://linuxacademy.com/course/aws-certified-machine-learning-specialty/<br/>**Handson:** https://www.udemy.com/course/aws-machine-learning/   |
 | CCA Spark and Hadoop Developer                                | 295 USD   | https://www.cloudera.com/about/training/certification.html  |
 | CCA Data Analyst                                              | 295 USD   |   |
 | IBM                                                           |           |   |
@@ -36,7 +37,7 @@ This repo lists all the certifications about cloud infrastructure, data engineer
 
 ## Programming Languages orient 
 
-1. Pyth n
+1. Python
 2.  R
 3. Jul  a
 4. Bash
