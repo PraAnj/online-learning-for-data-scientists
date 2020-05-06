@@ -38,7 +38,7 @@ This repo lists all the certifications about cloud infrastructure, data engineer
 
 1. Python
 2.  R
-3. Jul  a
+3. Julia
 4. Bash
 5. Java
 6. C++
