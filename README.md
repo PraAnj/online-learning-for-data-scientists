@@ -32,7 +32,8 @@ This repo lists all the certifications about cloud infrastructure, data engineer
 | Microsoft Azure                                               |           |   |
 | Google                                                        |           |   |
 | Microsoft Power BI                                            |           |   |
-| Databricks Certified Associate ML Practitioner for Spark 2.4  | 200 USD | https://academy.databricks.com/category/certifications    
+| Databricks Certified Associate ML Practitioner for Spark 2.4  | 200 USD | https://academy.databricks.com/category/certifications |
+| Tableau certifications | Depends| https://www.tableau.com/learn/certification |
 
 ## Programming Languages orient 
 
