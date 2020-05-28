@@ -5,10 +5,20 @@
 3) [All Data Science Cheatsheets in one place](https://www.datacamp.com/community/data-science-cheatsheets)
 4) [Kaggle discussion forum of Firat Gonen](https://www.kaggle.com/frtgnn/discussion)
 5) [Collection of best ML resources](https://madewithml.com/topics/)
-6) [Dash, Plotly dashboard design resources](https://www.kaggle.com/getting-started/100831)
-7) [Papers with code](https://paperswithcode.com/)
-8) [deeplearning.ai](https://www.deeplearning.ai/)
-9) [Fastai deep learning course](https://course.fast.ai/)
-10) [Reddit Machine learning](https://www.reddit.com/r/MachineLearning/)
-11) [Udemy A-Z Machine Learning course](https://www.udemy.com/course/machinelearning/)
-12) [Udemy A-Z deep learning course](https://www.udemy.com/course/deeplearning/)
+6) [Papers with code](https://paperswithcode.com/)
+7) [deeplearning.ai](https://www.deeplearning.ai/)
+8) [Fastai deep learning course](https://course.fast.ai/)
+9) [Reddit Machine learning](https://www.reddit.com/r/MachineLearning/)
+10) [Udemy A-Z Machine Learning course](https://www.udemy.com/course/machinelearning/)
+11) [Udemy A-Z deep learning course](https://www.udemy.com/course/deeplearning/)
+
+**Concepts for beginners**
+
+1. [Incremental Learning](https://www.youtube.com/watch?v=t7dSUY-4KHc)
+2. [Continually learning neural networks](https://arxiv.org/pdf/1802.07569.pdf)
+3. [Batch Normalization](https://www.jeremyjordan.me/batch-normalization/)
+
+**Visualization**
+
+1. [Realtime Dash app](https://github.com/Sentdex/socialsentiment/)
+2. [Dash, Plotly dashboard design resources](https://www.kaggle.com/getting-started/100831)
