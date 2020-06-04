@@ -16,7 +16,9 @@
 
 1. [Incremental Learning](https://www.youtube.com/watch?v=t7dSUY-4KHc)
 2. [Continually learning neural networks](https://arxiv.org/pdf/1802.07569.pdf)
-3. [Batch Normalization](https://www.jeremyjordan.me/batch-normalization/)
+3. [Input and Batch Normalization](https://www.jeremyjordan.me/batch-normalization/)
+4. [Normalize and Standardize time series input](https://machinelearningmastery.com/normalize-standardize-time-series-data-python/)
+5. [Different Normalizations on neural networks](https://datascience.stackexchange.com/questions/12956/paper-whats-the-difference-between-layer-normalization-recurrent-batch-normal)
 
 **Visualization**
 
