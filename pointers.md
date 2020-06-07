@@ -25,10 +25,3 @@
 1. [Realtime Dash app](https://github.com/Sentdex/socialsentiment/)
 2. [Dash, Plotly dashboard design resources](https://www.kaggle.com/getting-started/100831)
 3. [SVG, Canvas and WebGL](http://dataquarium.io/svg-canvas-webgl/)
-
-**Docker containers for Machine Learning**
-
-1. [Kaggle docker-python](https://github.com/Kaggle/docker-python)
-2. [Kaggle docket-rstat](https://hub.docker.com/r/kaggle/rstats/)
-3. [Kaggle docker image usage guide](https://www.kaggle.com/general/20036)
-4. [ Deep learning AMIs - AWS marketplace](https://aws.amazon.com/marketplace/pp/B07Y43P7X5?qid=1590729603421&sr=0-1&ref_=srh_res_product_title)
