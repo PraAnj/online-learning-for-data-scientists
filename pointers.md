@@ -25,3 +25,6 @@
 1. [Realtime Dash app](https://github.com/Sentdex/socialsentiment/)
 2. [Dash, Plotly dashboard design resources](https://www.kaggle.com/getting-started/100831)
 3. [SVG, Canvas and WebGL](http://dataquarium.io/svg-canvas-webgl/)
+4. [Plotly python notebook tutorial](https://plotly.com/python/ipython-notebook-tutorial/)
+5. [Grammar for Graphics-concept](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
+6. [Grammar for Graphics - python - plotnine(ggplot is not updated)](https://towardsdatascience.com/how-to-use-ggplot2-in-python-74ab8adec129)
