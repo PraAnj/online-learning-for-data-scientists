@@ -19,12 +19,21 @@
 3. [Input and Batch Normalization](https://www.jeremyjordan.me/batch-normalization/)
 4. [Normalize and Standardize time series input](https://machinelearningmastery.com/normalize-standardize-time-series-data-python/)
 5. [Different Normalizations on neural networks](https://datascience.stackexchange.com/questions/12956/paper-whats-the-difference-between-layer-normalization-recurrent-batch-normal)
+6. [Neural network feature visualization](https://distill.pub/2017/feature-visualization/)
 
 **Visualization**
 
-1. [Realtime Dash app](https://github.com/Sentdex/socialsentiment/)
-2. [Dash, Plotly dashboard design resources](https://www.kaggle.com/getting-started/100831)
-3. [SVG, Canvas and WebGL](http://dataquarium.io/svg-canvas-webgl/)
-4. [Plotly python notebook tutorial](https://plotly.com/python/ipython-notebook-tutorial/)
-5. [Grammar for Graphics-concept](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
-6. [Grammar for Graphics - python - plotnine(ggplot is not updated)](https://towardsdatascience.com/how-to-use-ggplot2-in-python-74ab8adec129)
+1. [Python visualizatin libs](https://www.analyticsvidhya.com/blog/2020/03/6-data-visualization-python-libraries/)
+2. [Realtime Dash app](https://github.com/Sentdex/socialsentiment/)
+3. [Dash, Plotly dashboard design resources](https://www.kaggle.com/getting-started/100831)
+4. [SVG, Canvas and WebGL](http://dataquarium.io/svg-canvas-webgl/)
+5. [Plotly python notebook tutorial](https://plotly.com/python/ipython-notebook-tutorial/)
+6. [Plotly express - offline support](https://medium.com/plotly/plotly-py-4-0-is-here-offline-only-express-first-displayable-anywhere-fc444e5659ee)
+6. [Grammar for Graphics-concept](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
+7. [Grammar for Graphics - python - plotnine(ggplot is not updated)](https://towardsdatascience.com/how-to-use-ggplot2-in-python-74ab8adec129)
+8. [Convert ggplot2 to plotly for interactivity](https://plotly.com/ggplot2/)
+9. [ggplot2 to plotly in R](https://www.littlemissdata.com/blog/interactiveplots)
+10. [Pandas-bokeh for interactive visualizations](https://github.com/PatrikHlobil/Pandas-Bokeh)
+11. [Bokeh can run on GPU with webgl enabled](https://docs.bokeh.org/en/latest/docs/user_guide/webgl.html)
+12. [Altair](https://altair-viz.github.io/)
+13. Matplotlib and seaborn
