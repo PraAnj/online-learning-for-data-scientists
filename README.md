@@ -1,10 +1,14 @@
+This repo is a collection of knowledge for data scientists.
+
 **Navigation to this repo**
 
-1) Photo notes
-2) Pdf notes
-3) Pointers to knowledge
-4) Visulization techniques
-5) Programming languages
-6) Fun projects
-7) Docker for data scientists
-8) Certifications for data scientists
+| Content info | Link/ Folder |
+| ------------ | ------------ |
+| 1\. Visual notes | /photos |
+| 2\. Pdf notes | /notes |
+| 3\. Pointers to knowledge | knowledge.md |
+| 4\. Visulization techniques |  |
+| 5\. Fun projects |  |
+| 6\. Docker for data scientists |  |
+| 7\. Certifications for data scientists |  |
+| 8\. Programming languages |  |
