@@ -1,7 +1,9 @@
 **Concepts**
-1. [Grammar for Graphics-concept](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
-2. [SVG, Canvas and WebGL](http://dataquarium.io/svg-canvas-webgl/)
 
+1. [Grammar for Graphics-concept](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
+2. [SVG, Canvas and WebGL](http://dataquarium.io/svg-canvas-webgl/)
+
+<br>
 **Python Visualization**
 
 1. [Python visualizatin libs](https://www.analyticsvidhya.com/blog/2020/03/6-data-visualization-python-libraries/)
@@ -18,9 +20,11 @@
 
 <br>
 **Geospatial data visualizations**
+
 1. [Kepler](https://kepler.gl/)
 2. [folium](https://python-visualization.github.io/folium/)
 
+<br>
 **Visualizations on Web & Mobile**
 
 1. [Realtime Dash app](https://github.com/Sentdex/socialsentiment/)
@@ -28,6 +32,7 @@
 
 <br>
 **BI tools**
-1.  Tableau Dashboards
-2\. QuickSight on AWS
-3\. Power BI
+
+1. Tableau Dashboards
+2. QuickSight on AWS
+3. Power BI
