@@ -1,4 +1,4 @@
-This repo is a collection of knowledge for data scientists.
+This repo is a collection of knowledge for data scientists. Credit should be given to original authors of all the knowledge pointers.
 
 **Navigation to this repo**
 
