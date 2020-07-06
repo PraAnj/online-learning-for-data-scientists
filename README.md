@@ -12,3 +12,13 @@ This repo is a collection of knowledge for data scientists. Credit should be giv
 | 6\. Docker for data scientists | [Docker.md](https://github.com/PraAnj/online-learning-for-data-scientists/blob/master/Docker.md) |
 | 7\. Certifications for data scientists | [certifications.md](https://github.com/PraAnj/online-learning-for-data-scientists/blob/master/certifications.md) |
 | 8\. Programming languages | [languages.md](https://github.com/PraAnj/online-learning-for-data-scientists/blob/master/languages.md) |
+<br>
+**To be included in the repo**
+
+1. [https://drive.google.com/drive/folders/1v3iA\_m5cTd4MBK3nBVzqlBfUbERF2i6m](https://drive.google.com/drive/folders/1v3iA_m5cTd4MBK3nBVzqlBfUbERF2i6m)
+2. [https://www.kaggle.com/getting-started/160291](https://www.kaggle.com/getting-started/160291)
+3. [https://www.dexplo.org/jupyter\_to\_medium/](https://www.dexplo.org/jupyter_to_medium/)
+4. [DASK - Scalable analytics on python](https://dask.org/)
+5. [https://drive.google.com/drive/folders/1m1FoUv66qlZgn2g76HHMzLq3QfydKC--](https://drive.google.com/drive/folders/1m1FoUv66qlZgn2g76HHMzLq3QfydKC--)
+6. [https://madewithml.com/paper-projects/](https://madewithml.com/paper-projects/)
+7.

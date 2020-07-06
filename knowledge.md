@@ -12,6 +12,8 @@
 10. [Udemy A-Z Machine Learning course](https://www.udemy.com/course/machinelearning/)
 11. [Udemy A-Z deep learning course](https://www.udemy.com/course/deeplearning/)
 12. [Kaggle learning](https://www.kaggle.com/learn/overview)
+13. [DL, AI Papers](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
+14. [ML with Python](https://tirthajyoti.github.io/Machine-Learning-with-Python/)
 
 **Concepts for beginners**
 
@@ -21,3 +23,8 @@
 4. [Normalize and Standardize time series input](https://machinelearningmastery.com/normalize-standardize-time-series-data-python/)
 5. [Different Normalizations on neural networks](https://datascience.stackexchange.com/questions/12956/paper-whats-the-difference-between-layer-normalization-recurrent-batch-normal)
 6. [Neural network feature visualization](https://distill.pub/2017/feature-visualization/)
+
+**GAN architectures**
+
+1. [GANs with pytorch](https://github.com/ozanciga/gans-with-pytorch)
+2. [GANs with Keras](https://github.com/eriklindernoren/Keras-GAN)
