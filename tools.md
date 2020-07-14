@@ -1,0 +1,8 @@
+1. [Pytorch turotials - Curated list] (https://github.com/ritchieng/the-incredible-pytorch)
+2. [Tensorflow tutorials ] (https://github.com/aymericdamien/TensorFlow-Examples)
+2. [Voila - Jupyter notebooks into web apps](https://github.com/voila-dashboards/voila)
+3. [DASK - Scalable analytics on python](https://dask.org/)
+4. [Koalos - pandas API for Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
+5. [Jupyter to medirm articles](https://www.dexplo.org/jupyter_to_medium/)
+6. [PyCaret](https://github.com/pycaret/)
+7. [SparkMagic for Jupyter](https://github.com/jupyter-incubator/sparkmagic)

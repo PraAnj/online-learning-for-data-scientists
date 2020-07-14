@@ -14,6 +14,8 @@
 12. [Kaggle learning](https://www.kaggle.com/learn/overview)
 13. [DL, AI Papers](https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI)
 14. [ML with Python](https://tirthajyoti.github.io/Machine-Learning-with-Python/)
+15. [ML Pipeline - Youtube series](https://www.youtube.com/c/AIEngineeringLife)
+16. [Deep learning practical course](https://course.fullstackdeeplearning.com/)
 
 **Concepts for beginners**
 
