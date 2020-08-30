@@ -6,3 +6,8 @@
 5. [Jupyter to medirm articles](https://www.dexplo.org/jupyter_to_medium/)
 6. [PyCaret](https://github.com/pycaret/)
 7. [SparkMagic for Jupyter](https://github.com/jupyter-incubator/sparkmagic)
+8. [AutoML](AutoML)
+9. [MLFlow](MLFlow)
+10. [Web scrapying tools for python](https://www.analyticsvidhya.com/blog/2020/04/5-popular-python-libraries-web-scraping/)
+11. [Libra - Automate end to end ML](https://github.com/Palashio/libra)
+12. [Kaleido - Exporting static images from plotly figures](https://pypi.org/project/kaleido/)

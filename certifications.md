@@ -6,7 +6,7 @@ This repo lists all the certifications about cloud infrastructure, data engineer
 | Program                                                       | Price     | Description or Link                                     |
 |---------------------------------------------------------------|-----------|---------------------------------------------------------|
 | Elasticsearch certified engineer                            | 400 USD   |   |
-| AWS Certified Solution Architect Associate                   | 150 USD   |  **Course:** https://www.udemy.com/course/aws-certified-solutions-architect-associate/<br/>**Quiz:** https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/</br>|
+| AWS Certified Solution Architect Associate                   | 150 USD   |  **Course:** https://www.udemy.com/course/aws-certified-solutions-architect-associate/<br/>**Quiz:** https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/</br>**Blog:** https://jayendrapatil.com/</br>|
 | AWS Certified Developer Associate                             | 150 USD   | **Course:**  https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/<br/>**Quiz:** https://www.whizlabs.com/aws-developer-associate/practice-tests/ |
 | AWS Certified Big Speciality 2020                             | 300 USD   | **Exam:** https://aws.amazon.com/certification/certified-big-data-specialty/  |
 | Microsoft Azure                                               |           |   |

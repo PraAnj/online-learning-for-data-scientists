@@ -25,6 +25,7 @@
 4. [Normalize and Standardize time series input](https://machinelearningmastery.com/normalize-standardize-time-series-data-python/)
 5. [Different Normalizations on neural networks](https://datascience.stackexchange.com/questions/12956/paper-whats-the-difference-between-layer-normalization-recurrent-batch-normal)
 6. [Neural network feature visualization](https://distill.pub/2017/feature-visualization/)
+7. [Hyper parameter optimization techniques - survey](https://arxiv.org/pdf/2007.15745v1.pdf)
 
 **GAN architectures**
 
