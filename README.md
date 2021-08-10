@@ -13,4 +13,5 @@ This repo is a collection of knowledge for data scientists. Credit should be giv
 | 7\. Certifications for data scientists | [certifications.md](https://github.com/PraAnj/online-learning-for-data-scientists/blob/master/certifications.md) |
 | 8\. Programming languages | [languages.md](https://github.com/PraAnj/online-learning-for-data-scientists/blob/master/languages.md) |
 | 9\. Fun projects | [FunProjects.md](https://github.com/PraAnj/online-learning-for-data-scientists/blob/master/FunProjects.md) |
+| 10\. Performance of codes | [performance.md](https://github.com/PraAnj/online-learning-for-data-scientists/blob/master/performance.md) |
 <br>

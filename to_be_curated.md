@@ -4,3 +4,5 @@
 2. [https://www.kaggle.com/getting-started/160291](https://www.kaggle.com/getting-started/160291)
 3. [https://drive.google.com/drive/folders/1m1FoUv66qlZgn2g76HHMzLq3QfydKC--](https://drive.google.com/drive/folders/1m1FoUv66qlZgn2g76HHMzLq3QfydKC--)
 4. [Summary on all active Apache projects](https://hadoopecosystemtable.github.io/)
+5. [Papers](https://github.com/eugeneyan/applied-ml#anomaly-detection)
+6. [File vs Block vs Object storage] (https://www.youtube.com/watch?v=3r9RGJ0_Bls&ab_channel=ZachGollwitzer)
